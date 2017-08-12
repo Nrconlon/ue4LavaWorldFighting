@@ -7,7 +7,8 @@ My friends and I playing the game for the first time  https://www.youtube.com/wa
 # ue4LavaWorldFighting
 
 This is Part #1 of my dream project "Entity"
-The Packaged projecs can be found in https://github.com/Nrconlon/ue4LavaWorldFighting-Packaged-Project
+To play the game, download the Packaged Project at https://github.com/Nrconlon/ue4LavaWorldFighting-Packaged-Project
+
 All of the assets I used are in Content/Mannequin
 Almost all of the in game "code" is in ThirdPersonCharacter.  This includes all spells, controlls, and the damage/health system.  The menu assets can be found in "Multiplayer Setup".
 Animations are from Mixamo.
