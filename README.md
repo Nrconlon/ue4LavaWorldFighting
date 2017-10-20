@@ -1,7 +1,7 @@
 # ue4LavaWorldFighting
 Project can be checked out in my portfolio https://nrconlon.carbonmade.com/projects/6596128
 
-To play the game, download the Executable at https://www.dropbox.com/s/40ucfz8nh2jvj13/LavaWorldFighting%20Executable.zip?dl=0
+To play the game, download the Executable at https://www.dropbox.com/s/hs9gx28fia21ldm/Lava%20World%20Executable.zip?dl=0
 (if prompted to sign up, click “No thanks, continue to view”)
 
 My friends and I playing the game for the first time  https://www.youtube.com/watch?v=lsEDw3vpVu8
